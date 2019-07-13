@@ -1,6 +1,6 @@
-#Some Material Motion Implementations
+# Some Material Motion Implementations
 
-##Navigation Transitions - Parent-To-Child Transition
+## Navigation Transitions - Parent-To-Child Transition
 
 >From a parent screen, an embedded child element lifts up on touch and expands in place
 
